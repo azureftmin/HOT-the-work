@@ -1,2 +1,3 @@
 # HOT-_-
-チャンネルに関連する動画や音楽を公開する場所です。
+About
+https://youtube.com/@hot.noteblock.aaskskyuu
