@@ -1,5 +1,5 @@
 ## HOT@音ブロ作品一覧
-
+=======
 1. [燈.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/%E7%87%88.mp3)
 > 崎山蒼志さんの「燈」音ブロ版です。
 
@@ -27,4 +27,5 @@
 9. [ml.wav](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/ml.wav)
 > しがない高校生「Moonlight」の耳コピ版原曲です。
 
-#- About [HOT@音ブロ](https://youtube.com/@hot.noteblock.aaskskyuu)
+-------
+About [HOT@音ブロ](https://youtube.com/@hot.noteblock.aaskskyuu)
