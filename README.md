@@ -1,15 +1,15 @@
 ## HOT@音ブロ作品一覧
 
-1. [燈.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/AIZO.mp3)
+1. [燈.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/%E7%87%88.mp3)
 > 崎山蒼志さんの「燈」音ブロ版です。
 
-2. AIZO.mp3
+2. [AIZO.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/AIZO.mp3)
 > King Gnu様の「AIZO」音ブロ版です。
 
-3. よあけのうた.mp3
+3. [よあけのうた.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/%E3%82%88%E3%81%82%E3%81%91%E3%81%AE%E3%81%86%E3%81%9F.mp3)
 >jo0ji様の「よあけのうた」音ブロ版です。
  
-4. nativeface.mp3
+4. [nativeface.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/nativeface.mp3)
 > 東方風神録「ネイティブフェイス」音ブロ版です。
 
 5. 音ブロックでMEGALOVANIAを演奏してみた.mp4
