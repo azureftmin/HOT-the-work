@@ -1,6 +1,6 @@
 ## HOT@音ブロ作品一覧
 
-1. 燈.mp3
+1. [燈.mp3](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/AIZO.mp3)
 > 崎山蒼志さんの「燈」音ブロ版です。
 
 2. AIZO.mp3
