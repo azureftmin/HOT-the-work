@@ -27,4 +27,4 @@
 9. [ml.wav](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/ml.wav)
 > しがない高校生「Moonlight」の耳コピ版原曲です。
 
--# About [HOT@音ブロ](https://youtube.com/@hot.noteblock.aaskskyuu)
+#- About [HOT@音ブロ](https://youtube.com/@hot.noteblock.aaskskyuu)
