@@ -28,6 +28,7 @@
 > しがない高校生「Moonlight」の耳コピ版原曲です。
 
 [狂気の瞳.wav](https://github.com/azureftmin/HOT-the-work/raw/refs/heads/main/files/%E7%8B%82%E6%B0%97%E3%81%AE%E7%9E%B3.wav)
-> 新曲です。お楽しみに
+> 東方花映塚「狂気の瞳 ～ Invisible Full Moon」の耳コピ音源です。多分過去一こだわりました。
+
 -------
 *About* [HOT@音ブロ](https://youtube.com/@hot.noteblock.aaskskyuu)
